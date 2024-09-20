@@ -1,0 +1,8 @@
+{
+  "name": "mosquito",
+  "short_name": "mosquito",
+  "start_url": "/mosquito/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#4DBA87"
+}

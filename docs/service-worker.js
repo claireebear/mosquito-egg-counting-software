@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.9d563322c4573ba59f6b70f261efe2c1.js"
+  "/mosquito-egg-counting-software/precache-manifest.7edff8174fd89bb11aa16d04e0036087.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "mec-vision"});

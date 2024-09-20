@@ -1,11 +1,12 @@
 {
-  "name": "mec-vision",
+  "name": "mosquito-egg-counting",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "deploy": "gh-pages -d dist"  
   },
   "dependencies": {
     "bootstrap": "^5.3.3",
@@ -33,7 +34,7 @@
     "@vue/cli-service": "^3.7.0",
     "@vue/eslint-config-standard": "^3.0.1",
     "babel-plugin-transform-imports": "^1.5.0",
-    "gh-pages": "^6.1.1",
+    "gh-pages": "^6.1.1", 
     "vue-template-compiler": "^2.6.10"
   }
 }

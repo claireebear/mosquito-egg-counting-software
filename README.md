@@ -56,7 +56,7 @@ To use the Mosquito Eggs Count Analyzer, follow these steps:
    ```bash
    git clone https://github.com/yourusername/mosquito-eggs-count-analyzer.git
 ## Acknowledgments
-This project was inspired by [MECVision](https://abtassociates.github.io/mecvision/) from Abt Associates, which provided valuable insights into automated analysis methods for image-based data collection.
+This project was inspired by and built upon concepts from the [MECVision GitHub repository](https://github.com/abtassociates/mecvision) by Abt Associates, which provided valuable insights into automated image analysis methods.
 
 ## References
-- **MECVision**: Abt Associates. Available at: [https://abtassociates.github.io/mecvision/](https://abtassociates.github.io/mecvision/)
+- **MECVision GitHub Repository**: Abt Associates. Available at: [https://github.com/abtassociates/mecvision](https://github.com/abtassociates/mecvision)
